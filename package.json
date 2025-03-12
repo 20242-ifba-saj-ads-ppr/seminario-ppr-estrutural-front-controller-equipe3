@@ -1,0 +1,15 @@
+{
+  "name": "seminario-ppr-estrutural-front-controller-equipe3",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "elysia": "^1.2.25",
+    "zod": "^3.24.2"
+  }
+}
